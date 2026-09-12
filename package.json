@@ -10,7 +10,7 @@
     "pretty": "prettier --write ."
   },
   "dependencies": {
-    "@consumet/extensions": "github:consumet/consumet.ts",
+    "@consumet/extensions": "https://github.com/consumet/consumet.ts.git",
     "@distube/ytdl-core": "^4.14.4",
     "@nextui-org/button": "2.0.37",
     "@nextui-org/card": "^2.0.33",
